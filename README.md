@@ -1,2 +1,19 @@
-# To-do-list-
-This is a simple, functional To-Do List application built with HTML5, CSS3, and vanilla JavaScript (ES6+). Tasks can be added, marked as complete, deleted, and are persisted in the browser’s local Storage.
+# To-Do List App
+
+A responsive To-Do List application enabling users to add, complete, and delete tasks. Data persists via localStorage.
+
+## How It Works
+- Add Task: Enter text and press the Add button (or Enter key).
+- Complete Task: Click the checkbox next to a task.
+- Delete Task: Click the delete icon next to a task.
+- Persistence: All tasks are saved to browser storage and reloaded on page visit.
+
+## Setup
+1. Clone or download the repository.
+2. Open index.html in a browser.
+
+## Future Enhancements
+- Edit existing tasks inline.
+- Filter by status (All / Active / Completed).
+- Drag-and-drop reordering.
+- Dark/light theme toggle.
