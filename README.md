@@ -10,7 +10,7 @@ A responsive To-Do List application enabling users to add, complete, and delete 
 
 ## Setup
 1. Clone or download the repository.
-2. Open index.html in a browser.
+2. Open index.html in a browser.    
 
 ## Future Enhancements
 - Edit existing tasks inline.
