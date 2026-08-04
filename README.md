@@ -13,7 +13,7 @@ A responsive To-Do List application enabling users to add, complete, and delete 
 2. Open index.html in a browser.    
 
 ## Future Enhancements
-- Edit existing tasks inline.
+- Edit existing tasks inline.  
 - Filter by status (All / Active / Completed).
 - Drag-and-drop reordering.
 - Dark/light theme toggle.
