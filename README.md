@@ -1,5 +1,5 @@
 # To-Do List App
-
+      
 A responsive To-Do List application enabling users to add, complete, and delete tasks. Data persists via localStorage.
 
 ## How It Works   
