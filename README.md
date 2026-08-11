@@ -5,7 +5,7 @@ A responsive To-Do List application enabling users to add, complete, and delete 
 ## How It Works   
 - Add Task: Enter text and press the Add button (or Enter key).
 - Complete Task: Click the checkbox next to a task.
-- Delete Task: Click the delete icon next to a task.   
+- Delete Task: Click the delete icon next to a task.     
 - Persistence: All tasks are saved to browser storage and reloaded on page visit.
 
 ## Setup
