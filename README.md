@@ -8,7 +8,7 @@ A responsive To-Do List application enabling users to add, complete, and delete 
 - Delete Task: Click the delete icon next to a task.     
 - Persistence: All tasks are saved to browser storage and reloaded on page visit.
 
-## Setup
+## Setup   
 1. Clone or download the repository.
 2. Open index.html in a browser.    
 
