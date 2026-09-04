@@ -14,6 +14,6 @@ A responsive To-Do List application enabling users to add, complete, and delete 
 
 ## Future Enhancements
 - Edit existing tasks inline.      
-- Filter by status (All / Active / Completed).
+- Filter by status (All / Active / Completed).  
 - Drag-and-drop reordering.
 - Dark/light theme toggle.
